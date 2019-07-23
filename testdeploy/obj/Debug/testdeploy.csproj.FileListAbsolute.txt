@@ -1,0 +1,246 @@
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\testdeploy.dll.config
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\testdeploy.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\testdeploy.pdb
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csc.exe
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csc.exe.config
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csc.rsp
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csi.exe
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csi.exe.config
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\csi.rsp
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.AppContext.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Console.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\vbc.exe
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\vbc.exe.config
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\vbc.rsp
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Antlr3.Runtime.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Newtonsoft.Json.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\System.Web.Optimization.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\WebGrease.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\System.Web.Optimization.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Newtonsoft.Json.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Antlr3.Runtime.pdb
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stany\source\repos\testdeploy\testdeploy\obj\Debug\testdeploy.csprojAssemblyReference.cache
+C:\Users\Stany\source\repos\testdeploy\testdeploy\obj\Debug\testdeploy.csproj.CoreCompileInputs.cache
+C:\Users\Stany\source\repos\testdeploy\testdeploy\obj\Debug\testdeploy.csproj.CopyComplete
+C:\Users\Stany\source\repos\testdeploy\testdeploy\obj\Debug\testdeploy.dll
+C:\Users\Stany\source\repos\testdeploy\testdeploy\obj\Debug\testdeploy.pdb
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\testdeploy.dll.config
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\testdeploy.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\testdeploy.pdb
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csc.exe
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csc.exe.config
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csc.rsp
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csi.exe
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csi.exe.config
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\csi.rsp
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.AppContext.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Console.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\vbc.exe
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\vbc.exe.config
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\vbc.rsp
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Antlr3.Runtime.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Newtonsoft.Json.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\System.Web.Optimization.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\WebGrease.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\System.Web.Optimization.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Newtonsoft.Json.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Antlr3.Runtime.pdb
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\obj\Debug\testdeploy.csprojAssemblyReference.cache
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\obj\Debug\testdeploy.csproj.CoreCompileInputs.cache
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\obj\Debug\testdeploy.csproj.CopyComplete
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\obj\Debug\testdeploy.dll
+C:\Users\Stany\Documents\GitHub\testdeployAzure\testdeploy\obj\Debug\testdeploy.pdb
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\testdeploy.dll.config
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\testdeploy.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\testdeploy.pdb
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csc.exe
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csc.exe.config
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csc.rsp
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csi.exe
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csi.exe.config
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\csi.rsp
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.Managed.Core.targets
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.AppContext.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Collections.Immutable.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Console.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.IO.Compression.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.IO.FileSystem.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.IO.Pipes.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Reflection.Metadata.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.AccessControl.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Claims.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Security.Principal.Windows.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.ValueTuple.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Xml.XmlDocument.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Xml.XPath.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\vbc.exe
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\vbc.exe.config
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\vbc.rsp
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\VBCSCompiler.exe
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\roslyn\VBCSCompiler.exe.config
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Antlr3.Runtime.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\AspNet.ScriptManager.bootstrap.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\AspNet.ScriptManager.jQuery.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.ScriptManager.WebForms.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.Web.Infrastructure.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.WindowsAzure.Storage.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Newtonsoft.Json.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\System.Diagnostics.DiagnosticSource.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\System.Web.Optimization.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\WebGrease.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.Azure.KeyVault.Core.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.WindowsAzure.Storage.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\System.Web.Optimization.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Newtonsoft.Json.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Antlr3.Runtime.pdb
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\System.Diagnostics.DiagnosticSource.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\obj\Debug\testdeploy.csprojAssemblyReference.cache
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\obj\Debug\testdeploy.csproj.CoreCompileInputs.cache
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\obj\Debug\testdeploy.csproj.CopyComplete
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\obj\Debug\testdeploy.dll
+F:\One Drive pers\OneDrive\Visual studio project\Visual studio project\bps platform\testdeploy\obj\Debug\testdeploy.pdb
