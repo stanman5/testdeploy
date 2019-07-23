@@ -15,28 +15,30 @@ namespace testdeploy
         protected void aanvragen(object sender, EventArgs e)
         {
             SqlConnection conn = new SqlConnection(@"Data Source=tcp:infratest.database.windows.net,1433;Initial Catalog=infra;Persist Security Info=False;User ID=stany;Password=Thestanman@5;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False");
+            string restemp = "";
             if (Nresourcegroep.Text != "")
             {
-                var restemp = Nresourcegroep.Text;
+                restemp = Nresourcegroep.Text;
 
             }
             else
             {
 
-                var restemp = ResourceGroup.SelectedValue;
+                restemp = ResourceGroup.SelectedValue;
             }
 
-            Response.Write("INSERT INTO Requests(ResourceImage, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, CustomerEmail) values " +
-                       "('" + ResourceImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "'");
+            string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, [Customer Email]) values " +
+                       "('" + ResourceImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
 
-            SqlCommand Insertcmd = new SqlCommand("INSERT INTO Requests(ResourceImage, ResourceGroup, DNS, Memory, CPU, RecourceName,CustomerName, CustomerEmail) values " +
-                       "('" + ResourceImage.SelectedValue + "','" + restemp + "','"  + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '"  + CuName.Text + "', '" + CUEmail.Text +"'", conn);
-
+            // Response.Write(Imestctquery);
             
+
+            SqlCommand cmd = new SqlCommand(Imestctquery, conn);
 
             conn.Open();
 
-            Insertcmd.ExecuteNonQuery(); 
+            cmd.ExecuteNonQuery();
+            conn.Close();
         }
     }
 }
