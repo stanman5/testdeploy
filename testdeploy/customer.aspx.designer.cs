@@ -112,6 +112,15 @@ namespace testdeploy {
         protected global::System.Web.UI.WebControls.TextBox ResourceName;
         
         /// <summary>
+        /// Resourcenaam control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Resourcenaam;
+        
+        /// <summary>
         /// DNSName control.
         /// </summary>
         /// <remarks>
@@ -119,6 +128,15 @@ namespace testdeploy {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox DNSName;
+        
+        /// <summary>
+        /// dnsfout control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label dnsfout;
         
         /// <summary>
         /// Button1 control.

@@ -115,6 +115,7 @@
                     <td class="auto-style15" align="right"  style="padding-right:80px">ResourceName</td>
                     <td class="auto-style4" align="left">
                         <asp:TextBox ID="ResourceName" runat="server"></asp:TextBox>
+                        <asp:Label ID="Resourcenaam" runat="server"></asp:Label>
                     </td>
                    
                 </tr>
@@ -122,7 +123,8 @@
                     <td class="auto-style15"align="right"  style="padding-right:80px">DNSName</td>
                     <td class="auto-style4" align="left">  
                         
-                        <asp:TextBox ID="DNSName" runat="server" align="left"></asp:TextBox>
+                        <asp:TextBox ID="DNSName" runat="server" align="left" OnTextChanged="DNSName_TextChanged"></asp:TextBox>
+                        <asp:Label ID="dnsfout" runat="server" BackColor="Red"></asp:Label>
                     </td>
 
                    

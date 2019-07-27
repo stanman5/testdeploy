@@ -12,33 +12,61 @@ namespace testdeploy
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
+        SqlConnection conn = new SqlConnection(@"Data Source=tcp:infratest.database.windows.net,1433;Initial Catalog=infra;Persist Security Info=False;User ID=stany;Password=Thestanman@5;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False");
+
         protected void aanvragen(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=tcp:infratest.database.windows.net,1433;Initial Catalog=infra;Persist Security Info=False;User ID=stany;Password=Thestanman@5;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False");
-            string restemp = "";
-            if (Nresourcegroep.Text != "")
+            SqlCommand Selectcmd = new SqlCommand("select count(*) as nummer  from Requests where DNS = " + DNSName.Text, conn);
+
+            conn.Open();
+
+            string getValue = Selectcmd.CommandText;
+
+            if (getValue == "")
             {
-                restemp = Nresourcegroep.Text;
+
+                string restemp = "";
+                if (Nresourcegroep.Text != "")
+                {
+                    restemp = Nresourcegroep.Text;
+
+                }
+                else
+                {
+
+                    restemp = ResourceGroup.SelectedValue;
+                }
+
+                string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, [Customer Email]) values " +
+                           "('" + ResourceImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
+
+                // Response.Write(Imestctquery);
+
+
+                SqlCommand cmd = new SqlCommand(Imestctquery, conn);
+
+                conn.Open();
+
+                cmd.ExecuteNonQuery();
+                conn.Close();
+
+
+
+
 
             }
             else
             {
-
-                restemp = ResourceGroup.SelectedValue;
+                dnsfout.Text= "DNS is niet unique";
             }
-
-            string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, [Customer Email]) values " +
-                       "('" + ResourceImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
-
-            // Response.Write(Imestctquery);
-            
-
-            SqlCommand cmd = new SqlCommand(Imestctquery, conn);
-
-            conn.Open();
-
-            cmd.ExecuteNonQuery();
-            conn.Close();
         }
+
+        protected void DNSName_TextChanged(object sender, EventArgs e)
+        {
+            
+            
+        }
+
+      
     }
 }
