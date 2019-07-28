@@ -38,9 +38,9 @@ namespace testdeploy
                 }
 
                 string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, [Customer Email]) values " +
-                           "('" + ResourceImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + Memory.Text + "', '" + Vcpu.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
+                           "('" + VmImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + VmImage.Text + "', '" + VMSize.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
 
-                // Response.Write(Imestctquery);
+                Response.Write(Imestctquery);
 
 
                 SqlCommand cmd = new SqlCommand(Imestctquery, conn);
@@ -57,16 +57,24 @@ namespace testdeploy
             }
             else
             {
-                dnsfout.Text= "DNS is niet unique";
+                dnsfout.Text = "DNS is niet unique";
             }
         }
 
         protected void DNSName_TextChanged(object sender, EventArgs e)
         {
-            
-            
+
+
         }
 
-      
+        protected void VMSize_TextChanged(object sender, EventArgs e)
+        {
+          
+        }
+
+        protected void VmImage_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Response.Write("test");
+        }
     }
 }

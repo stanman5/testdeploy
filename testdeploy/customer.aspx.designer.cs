@@ -40,13 +40,13 @@ namespace testdeploy {
         protected global::System.Web.UI.WebControls.TextBox CUEmail;
         
         /// <summary>
-        /// ResourceImage control.
+        /// VmImage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ResourceImage;
+        protected global::System.Web.UI.WebControls.DropDownList VmImage;
         
         /// <summary>
         /// SqlDataSourceImage control.
@@ -56,6 +56,33 @@ namespace testdeploy {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSourceImage;
+        
+        /// <summary>
+        /// VMSize control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList VMSize;
+        
+        /// <summary>
+        /// Size control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource Size;
+        
+        /// <summary>
+        /// DynamicFilter1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.DynamicData.DynamicFilter DynamicFilter1;
         
         /// <summary>
         /// ResourceGroup control.
@@ -74,24 +101,6 @@ namespace testdeploy {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSourceImageGroup;
-        
-        /// <summary>
-        /// Memory control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Memory;
-        
-        /// <summary>
-        /// Vcpu control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Vcpu;
         
         /// <summary>
         /// Nresourcegroep control.
