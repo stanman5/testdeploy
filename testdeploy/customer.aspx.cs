@@ -16,13 +16,15 @@ namespace testdeploy
 
         protected void aanvragen(object sender, EventArgs e)
         {
-            SqlCommand Selectcmd = new SqlCommand("select count(*) as nummer  from Requests where DNS = '" + DNSName.Text +"'", conn);
+            string imgselect = "select count(*) as nummer  from Requests where DNS = '" + DNSName.Text + "'";
+            SqlCommand Selectcmd = new SqlCommand(imgselect, conn);
 
             conn.Open();
 
-            string getValue = Selectcmd.CommandText;
+            int getValue = (int) Selectcmd.ExecuteScalar();
+            
 
-            if (getValue == "")
+            if (getValue == 0)
             {
 
                 string restemp = "";
@@ -37,7 +39,7 @@ namespace testdeploy
                     restemp = ResourceGroup.SelectedValue;
                 }
 
-                string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, Customer_Email) values " +
+                string Imestctquery = ("INSERT INTO requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, Customer_Email) values " +
                            "('" + VmImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + VmImage.Text + "', '" + VMSize.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
 
                 Response.Write(Imestctquery);
@@ -45,7 +47,7 @@ namespace testdeploy
 
                 SqlCommand cmd = new SqlCommand(Imestctquery, conn);
 
-                conn.Open();
+               
 
                 cmd.ExecuteNonQuery();
                 conn.Close();
