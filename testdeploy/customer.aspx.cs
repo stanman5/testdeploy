@@ -12,11 +12,11 @@ namespace testdeploy
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        SqlConnection conn = new SqlConnection(@"Data Source=tcp:infratest.database.windows.net,1433;Initial Catalog=infra;Persist Security Info=False;User ID=stany;Password=Thestanman@5;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False");
+        SqlConnection conn = new SqlConnection(@"Data Source=tcp:testportalazure.database.windows.net,1433;Initial Catalog=AzurePortalDB;Persist Security Info=False;User ID=stany;Password=Thestanman@5;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False");
 
         protected void aanvragen(object sender, EventArgs e)
         {
-            SqlCommand Selectcmd = new SqlCommand("select count(*) as nummer  from Requests where DNS = " + DNSName.Text, conn);
+            SqlCommand Selectcmd = new SqlCommand("select count(*) as nummer  from Requests where DNS = '" + DNSName.Text +"'", conn);
 
             conn.Open();
 
@@ -37,7 +37,7 @@ namespace testdeploy
                     restemp = ResourceGroup.SelectedValue;
                 }
 
-                string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, [Customer Email]) values " +
+                string Imestctquery = ("INSERT INTO Requests(Resourcetype, ResourceGroup, DNS, Memory, CPU, RecourceName, CustomerName, Customer_Email) values " +
                            "('" + VmImage.SelectedValue + "','" + restemp + "','" + DNSName.Text + "', '" + VmImage.Text + "', '" + VMSize.Text + "', '" + ResourceName.Text + "', '" + CuName.Text + "', '" + CUEmail.Text + "')");
 
                 Response.Write(Imestctquery);
