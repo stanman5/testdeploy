@@ -98,18 +98,18 @@
                 <tr>
                     <td class="auto-style15" align="right"  style="padding-right:80px">Vm Image</td>
                     <td class="auto-style4" align="left">
-                        <asp:DropDownList ID="VmImage" runat="server" DataSourceID="SqlDataSourceImage" DataTextField="sku" DataValueField="id" OnSelectedIndexChanged="VmImage_SelectedIndexChanged">
+                        <asp:DropDownList ID="VmImage" runat="server" DataSourceID="SqlDataSourceImage" DataTextField="skus" DataValueField="id" OnSelectedIndexChanged="VmImage_SelectedIndexChanged">
                         </asp:DropDownList>
-                        <asp:SqlDataSource ID="SqlDataSourceImage" runat="server" ConnectionString="<%$ ConnectionStrings:infraConnectionString %>" SelectCommand="SELECT [id], [sku] FROM [VmImage]"></asp:SqlDataSource>
+                        <asp:SqlDataSource ID="SqlDataSourceImage" runat="server" ConnectionString="<%$ ConnectionStrings:AzurePortalDBConnectionString %>" SelectCommand="SELECT [skus], [id] FROM [VmImage]" ProviderName="<%$ ConnectionStrings:AzurePortalDBConnectionString.ProviderName %>"></asp:SqlDataSource>
                     </td>
                    
                 </tr>
                         <tr>
                     <td class="auto-style15" align="right"  style="padding-right:80px">Vm Size</td>
                     <td class="auto-style4" align="left" id="ResourceGroup">
-                        <asp:DropDownList ID="VMSize" runat="server" DataSourceID="Size" DataTextField="SizeName" DataValueField="id" Height="17px" OnSelectedIndexChanged="VmImage_SelectedIndexChanged" style="margin-top: 0px">
+                        <asp:DropDownList ID="VMSize" runat="server" DataSourceID="Size" DataTextField="Img_Name" DataValueField="Img_id" Height="17px" OnSelectedIndexChanged="VmImage_SelectedIndexChanged" style="margin-top: 0px">
                         </asp:DropDownList>
-                        <asp:SqlDataSource ID="Size" runat="server" ConnectionString="<%$ ConnectionStrings:infraConnectionString %>" SelectCommand="SELECT [id], [SizeName] FROM [VmSize]"></asp:SqlDataSource>
+                        <asp:SqlDataSource ID="Size" runat="server" ConnectionString="<%$ ConnectionStrings:AzurePortalDBConnectionString %>" SelectCommand="SELECT [Img_Name], [Img_id] FROM [VMSizes]"></asp:SqlDataSource>
                     </td>
                    
                 </tr>
@@ -125,9 +125,9 @@
                         <tr>
                     <td class="auto-style18" align="right"  style="padding-right:80px">Existing Resource Group</td>
                     <td class="auto-style19" align="left">
-                        <asp:DropDownList ID="ResourceGroup" runat="server" DataSourceID="SqlDataSourceImageGroup" DataTextField="Resourcegroep" DataValueField="id">
+                        <asp:DropDownList ID="ResourceGroup" runat="server" DataSourceID="SqlDataSourceImageGroup" DataTextField="ResourceGroup" DataValueField="ID">
                         </asp:DropDownList>
-                        <asp:SqlDataSource ID="SqlDataSourceImageGroup" runat="server" ConnectionString="<%$ ConnectionStrings:infraConnectionString %>" SelectCommand="SELECT * FROM [resourcegroups]"></asp:SqlDataSource>
+                        <asp:SqlDataSource ID="SqlDataSourceImageGroup" runat="server" ConnectionString="<%$ ConnectionStrings:AzurePortalDBConnectionString %>" SelectCommand="SELECT [ResourceGroup], [ID] FROM [requests]"></asp:SqlDataSource>
                     </td>
                    
                 </tr>
