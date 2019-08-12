@@ -116,8 +116,6 @@
                         <tr>
                     <td class="auto-style15" align="right"  style="padding-right:80px">Vm size detail</td>
                     <td class="auto-style4" align="left">
-                        <asp:DynamicFilter ID="DynamicFilter1" runat="server">
-                        </asp:DynamicFilter>
                     </td>
                    
                 </tr>

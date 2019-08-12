@@ -76,15 +76,6 @@ namespace testdeploy {
         protected global::System.Web.UI.WebControls.SqlDataSource Size;
         
         /// <summary>
-        /// DynamicFilter1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.DynamicData.DynamicFilter DynamicFilter1;
-        
-        /// <summary>
         /// ResourceGroup control.
         /// </summary>
         /// <remarks>
